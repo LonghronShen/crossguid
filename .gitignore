@@ -5,3 +5,7 @@ build/
 android/libs/
 android/obj/
 cmake_build
+
+.vscode/
+.cache/
+build*/
